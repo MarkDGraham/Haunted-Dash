@@ -40,8 +40,8 @@ in an interval.
 • Improvement: Menu UI System needs to be added. <br />
 
 <a name="links"><b>Links:</b></a> <br />
-Video: TBA!
-Playable Demo: TBA!
+Video: TBA! <br />
+Playable Demo: TBA! <br />
 
 <a name="tags"><b>Tags:</b></a> <br />
 • Unity <br />
