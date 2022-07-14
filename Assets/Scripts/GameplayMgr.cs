@@ -13,7 +13,9 @@ using UnityEngine;
  *   2022:
  *     April:
  *       16:
- *         - 
+ *         - Added decrease speed with enemy contact.
+ *         - Added end game check.
+ *         - Added speed increase over time.
  *         - Script Created.
  */
 

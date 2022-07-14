@@ -13,7 +13,7 @@ using UnityEngine;
  *   2022:
  *     April:
  *       16:
- *         - 
+ *         - Adjusting camera to match player box added.
  *         - Script Created.
  */
 
