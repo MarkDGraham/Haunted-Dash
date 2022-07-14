@@ -41,7 +41,7 @@ in an interval.
 
 <a name="links"><b>Links:</b></a> <br />
 Video: TBA! <br />
-Playable Demo: TBA! <br />
+Playable Demo: https://play.unity.com/mg/other/haunted-dash <br />
 
 <a name="tags"><b>Tags:</b></a> <br />
 • Unity <br />
