@@ -8,7 +8,6 @@ University of Nevada, Reno Hackathon Project
 3) [How to Use](#run)
 4) [Known Bugs](#bugs)
 5) [Links](#links)
-6) [Tags](#tags)
 
 
 <a name="description"><b>Description:</b></a> <br />
@@ -42,9 +41,3 @@ in an interval.
 <a name="links"><b>Links:</b></a> <br />
 Video: TBA! <br />
 Playable Demo: https://play.unity.com/mg/other/haunted-dash <br />
-
-<a name="tags"><b>Tags:</b></a> <br />
-• Unity <br />
-• C# <br />
-• 24-hr <br />
-• Hackathon <br />
